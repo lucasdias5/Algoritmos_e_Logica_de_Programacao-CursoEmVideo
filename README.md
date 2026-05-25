@@ -1,1 +1,3 @@
-Este repositório é dedicado ao curso de Algoritmos e Lógica de programação do canal Curso em Vídeo, com aulas ministradas pelo professor Gustavo Guanabara. Este repositório contém tanto os exercícios teóricos feitos em aula quanto os exercícios da apostila nos quais eu fiz sozinho.
+Este repositório é dedicado ao curso de Algoritmos e Lógica de programação do canal Curso em Vídeo, com aulas ministradas pelo professor Gustavo Guanabara. 
+
+Este repositório contém tanto os exercícios teóricos feitos em aula quanto os exercícios da apostila nos quais eu fiz sozinho.
